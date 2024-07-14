@@ -55,6 +55,11 @@ const Contact = () => {
   return (
     <div className="contact">
       <h2>Contact Me</h2>
+      <div className="contact-info">
+      <h4>Use the form below and I will be in touch soon or contact me directly by</h4>
+      <a href="mailto:beeusc2018@gmail.com">Email.</a>
+      </div>
+      <br></br>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="name">Name:</label>

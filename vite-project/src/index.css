@@ -227,6 +227,18 @@ nav ul li a.active {
   margin-right: 200px;
 }
 
+.contact-info {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+
+.contact a {
+  color: #490a48;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
 .form-group {
   margin-bottom: 20px;
 }
